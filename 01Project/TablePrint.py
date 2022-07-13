@@ -11,8 +11,9 @@ tableData = [['apples', 'oranges', 'cherries', 'banana'],
 def printTable(tables):
         len_max = []
 
-            '''Appends the number of the highest string to the len_max list
-            using the max function: max(list, key = len)'''
+            # Appends the number of the highest string to the len_max list
+            # using the max function: max(list, key = len)
+            
 
         for word in range(len(tables)):
             len_max.append(len(max(tables[word], key = len)))
