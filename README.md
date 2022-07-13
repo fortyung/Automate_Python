@@ -3,4 +3,4 @@
 	- PassWord Checker
 	- BulletPoint Adder
 010. Side Quest
-	- Regex
+	- Regex.
