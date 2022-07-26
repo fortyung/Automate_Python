@@ -25,10 +25,10 @@ sat
 pat
 '''
 
-
-pattern = re.compile(r'start', re.INGNORECASE) # or re.I
-match = pattern.search(sentence)
-print(match)
+pattern = re.compile(r'\d{3}-\d{3}-\d{4}')
+# pattern = re.compile(r'start', re.IGNORECASE) # or re.I
+# match = pattern.search(sentence)
+# print(match)
 
 
 # with open('text.txt', 'r') as f:
@@ -38,3 +38,10 @@ print(match)
 #     f.seek(8000)
 #     for items in match:
 #         print(items)
+
+with open('text.txt', 'r') as f:
+	content = f.read()
+
+	match = pattern.finditer(content)
+	for items in match:
+		print(items)
