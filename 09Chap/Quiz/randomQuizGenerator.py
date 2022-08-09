@@ -20,7 +20,7 @@ capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix',
 'Wisconsin': 'Madison', 'Wyoming': 'Cheyenne'}
 
 # 5 test question
-for quiznum in range(5):
+for quiznum in range(2):
 	# generatates the Quiz and Answer files
 	quizFile = open('captialQuiz%s.txt' % (quiznum + 1), 'w')
 	answerFile = open('captialAnswers%s.txt' % (quiznum + 1), 'w')
