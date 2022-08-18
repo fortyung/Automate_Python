@@ -1,5 +1,7 @@
+#! python 3
 import re
 '''Regex Version of the strip Func'''
+
 def restrip(word, remove=''):
 
 	if remove == '':

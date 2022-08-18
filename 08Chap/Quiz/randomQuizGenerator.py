@@ -1,4 +1,5 @@
 #! python 3
+# randomQuizGenerator.py - generates random quiz questions about the US states and Capitals
 import random
 
 capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix',
