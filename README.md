@@ -15,7 +15,9 @@
 
 4. Chapter 9
 	- Renameing files with US-Style dates to European-Style dates
-	
+	- Backing up a folder into a ziP file
+	- Selective Copy
+
 
 100. Side Quest
 	- Regex.
