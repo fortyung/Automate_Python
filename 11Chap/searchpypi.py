@@ -22,8 +22,3 @@ for i in range(5):
     URL_TO_OPEN = 'https://pypi.org' + LINK_ELEMS[i].get('href')
     print('opening...', URL_TO_OPEN)
     webbrowser.open(URL_TO_OPEN)
-
-
-
-
-
