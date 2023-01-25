@@ -1,6 +1,7 @@
 '''
 Project: Opening All Search Results
 search results page for the Python Package Index at https://pypi.org/.
+usage: python <file name> <sreach_term>
 '''
 #! python3
 
