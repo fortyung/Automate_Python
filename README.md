@@ -20,6 +20,9 @@
 
 5. Chapter 10: [Debugging](10Chap)
 	- [Debugging Coin Toss](10Chap/debug_coin_toss.py)
+	
+6. Chapter 11: [Web Scraping](11Chap)
+	- [Opening All Search Results](11Chap/searchpypi.py)
 
 100. Side Quest
 	- Regex.
