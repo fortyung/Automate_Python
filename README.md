@@ -23,7 +23,8 @@
 	
 6. Chapter 11: [Web Scraping](11Chap)
 	- [Opening All Search Results](11Chap/searchpypi.py)
-
+	- [downloadXkcd.py](11Chap/downloadXkcd.py)
+	
 100. Side Quest
 	- Regex.
 	- Reading and opening files
