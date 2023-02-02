@@ -25,14 +25,16 @@
 	- [Opening All Search Results](11Chap/searchpypi.py)
 	- [downloadXkcd.py](11Chap/downloadXkcd.py)
 
-101. Object Oriented Programming (OOP)
+101. [Object Oriented Programming (OOP)](OOP%20python)
 	- Classes and Instances.
 	- Higher Order Func, First Class Func, Closure.
 	- Class and Function Decorators.
 	- SubClasses and Inheritance.
 	- Class methods and Static methods.
+	- Magic methods.
+	_ Property Decorators - Getters, Setters, and Deleters
 
 
-100. Side Quest
+100. [Side Quest](SideQuest)
 	- Regex.
 	- Reading and opening files.
