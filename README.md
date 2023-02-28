@@ -25,7 +25,12 @@
 	- [Opening All Search Results](11Chap/searchpypi.py)
 	- [downloadXkcd.py](11Chap/downloadXkcd.py)
 
-101. [Object Oriented Programming (OOP)](OOP%20python)
+7. [Object Oriented Programming (OOP)](OOP%20python)
+	- [OOP Principles](OOP%20python/freeCode)
+		- Encapsulation
+		- Abstraction
+		- Inheritance
+		- Polymorphism
 	- Classes and Instances.
 	- Higher Order Func, First Class Func, Closure.
 	- Class and Function Decorators.
@@ -33,13 +38,7 @@
 	- Class methods and Static methods.
 	- Magic methods.
 	- Property Decorators: Getters, Setters, and Deleters
-	- [OOP Principles](OOP%20python/freeCode)
-		- Encapsulation
-		- Abstraction
-		- Inheritance
-		- Polymorphism
 
-
-100. [Side Quest](SideQuest)
+8. [Side Quest](SideQuest)
 	- Regex.
 	- Reading and opening files.
