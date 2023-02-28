@@ -26,12 +26,12 @@ class Employee:
     def apply_raise(self):
         self.pay = int(self.pay * self.raise_amount)
 
-    @classmethod
+    @classmethod  # Used as an dependent function of the class
     def from_string(cls, em_st):
         first, last, pay = em_st.split("-")
         return cls(first, last, pay)
 
-    @staticmethod
+    @staticmethod  # Used as an independent function
     def is_workday(day):
         print(day.weekday())
         if day.weekday() == 5 or day.weekday() == 6:

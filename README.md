@@ -32,7 +32,12 @@
 	- SubClasses and Inheritance.
 	- Class methods and Static methods.
 	- Magic methods.
-	_ Property Decorators - Getters, Setters, and Deleters
+	- Property Decorators: Getters, Setters, and Deleters
+	- [OOP Principles](OOP%20python/freeCode)
+		- Encapsulation
+		- Abstraction
+		- Inheritance
+		- Polymorphism
 
 
 100. [Side Quest](SideQuest)
