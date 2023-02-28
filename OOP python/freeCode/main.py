@@ -1,7 +1,7 @@
 from phone import Phone
 
 phone1 = Phone("samsung", 600, 71)
-phone1.apply_increment(0.2)  # Inheritance
+phone1.apply_increment(0.2)  # Polymorphism
 print(phone1.price)
 
 
